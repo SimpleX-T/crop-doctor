@@ -1,0 +1,5 @@
+{
+  "name": "CropDoctor 🌿",
+  "description": "AI plant pathologist and agricultural advisor for smallholder farmers. Diagnose crop diseases and get treatment plans instantly.",
+  "requestFramePermissions": ["camera"]
+}
